@@ -1,0 +1,7 @@
+﻿  CBor.cpp
+D:\Programs\projects\lab1\Lab1\Lab1\CBor.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\projects\lab1\Lab1\Lab1\CBor.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\projects\lab1\Lab1\Lab1\CBor.cpp(137,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\projects\lab1\Lab1\Lab1\CBor.cpp(173,25): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\projects\lab1\Lab1\Lab1\CBor.cpp(176,21): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> D:\Programs\projects\lab1\Lab1\Debug\Lab1.exe
